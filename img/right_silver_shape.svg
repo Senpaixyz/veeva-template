@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="803.402" height="1667.325" viewBox="0 0 803.402 1667.325">
+	<defs>
+		<clipPath id="clip-path">
+			<path id="Path_7" data-name="Path 7" d="M16.3-.675H819.7V-1668H16.3Z" transform="translate(1420.599 1668)" />
+		</clipPath>
+	</defs>
+	<g id="PlacedPDF" transform="translate(-1688.898 121)">
+		<g id="Group_4" data-name="Group 4" transform="translate(252 -121)" clip-path="url(#clip-path)">
+			<path id="Path_1" data-name="Path 1" d="M0,0A2654.962,2654.962,0,0,1,228.747,286.187C539.111,734.477,681.617,1230.23,660.713,1668H692.12V0Z" transform="translate(1553.723 -0.675)" fill="#5c5c61" />
+			<path id="Path_5" data-name="Path 5" d="M0,0A2654.965,2654.965,0,0,0-228.747-286.187H-345.572A2633.227,2633.227,0,0,1-17.687,101.97C268.812,515.788,412.275,970.05,416.2,1381.81h15.764C452.87,944.043,310.364,448.29,0,0" transform="translate(1782.47 285.512)" fill="#bdbbbb" />
+			<path id="Path_6" data-name="Path 6" d="M0,0H-1455.76V1668H761.774c6.574-411.76-136.89-866.025-423.388-1279.843C239.1,244.77,128.683,115,0,0" transform="translate(1426.398 -0.675)" fill="#fff" />
+		</g>
+	</g>
+</svg>

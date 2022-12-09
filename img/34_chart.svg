@@ -1,0 +1,146 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 489" width="792" height="489">
+	<title>New Project</title>
+	<defs>
+		<linearGradient id="g1" x1="36.5" y1="442.8" x2="758" y2="442.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#d3dbe7"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #000000;stroke-width: .6 } 
+		.s2 { fill: #5c5c61 } 
+		.s3 { fill: #ee7622 } 
+		.s4 { fill: #bebbba } 
+		.s5 { fill: url(#g1) } 
+		.t6 { font-size: 14px;line-height: 34px;fill: #006998;font-weight: 500;font-family: "Gotham" } 
+		.t7 { font-size: 13px;line-height: 34px;fill: #006998;font-weight: bold;font-family: "Gotham" } 
+		.t8 { font-size: 30px;line-height: 34px;fill: #006998;font-weight: bold;font-family: "Gotham" } 
+		.t9 { font-size: 12px;line-height: 34px;fill: #6c8390;font-weight: bold;font-family: "Gotham" } 
+		.t10 { font-size: 12px;line-height: 34px;fill: #bebbba;font-weight: bold;font-family: "Gotham" } 
+		.t11 { font-size: 25px;line-height: 34px;fill: #ee7622;font-weight: bold;font-family: "Gotham" } 
+		.t12 { font-size: 25px;line-height: 34px;fill: #bebbba;font-weight: bold;font-family: "Gotham" } 
+		.t13 { font-size: 25px;line-height: 34px;fill: #5c5c61;font-weight: bold;font-family: "Gotham" } 
+		.s14 { fill: none;stroke: #006998;stroke-linecap: round;stroke-width: .9 } 
+		.s15 { fill: none;stroke: #4d4e4f;stroke-linecap: round;stroke-width: .9 } 
+		.s16 { fill: none;stroke: #006998;stroke-width: .9 } 
+		.s17 { fill: none;stroke: #ee7622;stroke-width: 2.7 } 
+		.s18 { fill: none;stroke: #bebbba;stroke-width: .9 } 
+		.s19 { fill: none;stroke: #5c5c61;stroke-width: .9 } 
+		.s20 { fill: none;stroke: #bebbba;stroke-width: .4 } 
+		.s21 { fill: #e6e7e8 } 
+		.s22 { fill: none;stroke: #6c8390;stroke-width: 1.4 } 
+		.s23 { fill: #6c8390 } 
+		.s24 { fill: none;stroke: #bebbba;stroke-width: 1.4 } 
+	</style>
+	<g id="Folder 1">
+		<path id="Path 4295" class="s0" d="m0.8-0.1h790.4v492h-790.4z"/>
+		<path id="Path 4297" class="s1" d="m791.2 507.3h-790.4v-525.5h790.4z"/>
+		<path id="Path 4298" class="s2" d="m49.4 392.4c-5.5 0-10-4.2-10.5-9.5h21c-0.5 5.3-5 9.5-10.5 9.5zm0-21c5.5 0 10 4.2 10.5 9.6h-21c0.5-5.4 5-9.6 10.5-9.6zm181.1 21c-5.5 0-10-4.2-10.5-9.5h21c-0.5 5.3-5 9.5-10.5 9.5zm0-21c5.5 0 10 4.2 10.5 9.6h-21c0.5-5.4 5-9.6 10.5-9.6zm181.1 21c-5.5 0-10-4.2-10.5-9.5h21c-0.5 5.3-5 9.5-10.5 9.5zm0-21c5.5 0 10 4.2 10.5 9.6h-21c0.5-5.4 5-9.6 10.5-9.6zm180.3 21c-5.5 0-10-4.2-10.5-9.5h21c-0.5 5.3-5 9.5-10.5 9.5zm0-21c5.5 0 10 4.2 10.5 9.6h-21c0.5-5.4 5-9.6 10.5-9.6z"/>
+		<path id="Path 4299" class="s3" d="m43.3 151.7c0-3.3 2.7-6 6.1-6 3.3 0 6.1 2.7 6.1 6v9.1h-12.2zm12.3 20.5c0 3.3-2.8 6-6.1 6-3.4 0-6.1-2.7-6.1-6v-9.1h12.2z"/>
+		<path id="Path 4303" class="s4" d="m43.3 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6.1 2.7 6.1 6v9h-12.2zm12.3 20.5c0 3.4-2.8 6.1-6.1 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4306" class="s4" d="m70.2 262.8c0-3.3 2.7-6 6-6 3.4 0 6.1 2.7 6.1 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6-2.7-6-6.1v-9h12.1z"/>
+		<path id="Path 4309" class="s4" d="m95.6 262.8c0-3.3 2.8-6 6.1-6 3.4 0 6.1 2.7 6.1 6v9h-12.2zm12.3 20.5c0 3.4-2.8 6.1-6.1 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4312" class="s4" d="m121.1 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6 2.7 6 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6-2.7-6-6.1v-9h12.1z"/>
+		<path id="Path 4315" class="s4" d="m147.9 262.8c0-3.3 2.8-6 6.1-6 3.4 0 6.1 2.7 6.1 6v9h-12.2zm12.3 20.5c0 3.4-2.8 6.1-6.1 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4318" class="s4" d="m173.4 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6 2.7 6 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6-2.7-6-6.1v-9h12.1z"/>
+		<path id="Path 4321" class="s4" d="m198.3 262.8c0-3.3 2.7-6 6-6 3.4 0 6.1 2.7 6.1 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6-2.7-6-6.1v-9h12.1z"/>
+		<path id="Path 4324" class="s4" d="m225.1 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6.1 2.7 6.1 6v9h-12.2zm12.2 20.5c0 3.4-2.7 6.1-6 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.1z"/>
+		<path id="Path 4327" class="s4" d="m250.6 262.8c0-3.3 2.7-6 6-6 3.4 0 6.1 2.7 6.1 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6-2.7-6-6.1v-9h12.1z"/>
+		<path id="Path 4330" class="s4" d="m275.7 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6 2.7 6 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.1z"/>
+		<path id="Path 4333" class="s4" d="m302.5 262.8c0-3.3 2.8-6 6.1-6 3.4 0 6.1 2.7 6.1 6v9h-12.2zm12.3 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4336" class="s4" d="m328 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6 2.7 6 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.1z"/>
+		<path id="Path 4339" class="s4" d="m353.5 262.8c0-3.3 2.7-6 6-6 3.4 0 6.1 2.7 6.1 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4342" class="s4" d="m380.3 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6 2.7 6 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.1z"/>
+		<path id="Path 4345" class="s4" d="m405.8 262.8c0-3.3 2.7-6 6-6 3.4 0 6.1 2.7 6.1 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4348" class="s4" d="m430.6 262.8c0-3.3 2.8-6 6.1-6 3.4 0 6.1 2.7 6.1 6v9h-12.2zm12.3 20.5c0 3.4-2.8 6.1-6.1 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4351" class="s4" d="m457.5 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6 2.7 6 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6-2.7-6-6.1v-9h12.1z"/>
+		<path id="Path 4354" class="s4" d="m482.9 262.8c0-3.3 2.8-6 6.1-6 3.4 0 6.1 2.7 6.1 6v9h-12.2zm12.3 20.5c0 3.4-2.8 6.1-6.1 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4357" class="s4" d="m507.2 262.8c0-3.3 2.7-6 6-6 3.4 0 6.1 2.7 6.1 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4360" class="s4" d="m534 262.8c0-3.3 2.7-6 6.1-6 3.3 0 6 2.7 6 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6 6.1-3.4 0-6.1-2.7-6.1-6.1v-9h12.1z"/>
+		<path id="Path 4363" class="s4" d="m559.5 262.8c0-3.3 2.7-6 6-6 3.4 0 6.1 2.7 6.1 6v9h-12.1zm12.2 20.5c0 3.4-2.7 6.1-6.1 6.1-3.3 0-6.1-2.7-6.1-6.1v-9h12.2z"/>
+		<path id="Path 4365" class="s3" d="m224.5 151.7c0-3.3 2.8-6 6.1-6 3.4 0 6.1 2.7 6.1 6v9.1h-12.2zm12.3 20.5c0 3.3-2.8 6-6.1 6-3.4 0-6.1-2.7-6.1-6v-9.1h12.2zm168-20.5c0-3.3 2.7-6 6.1-6 3.3 0 6 2.7 6 6v9.1h-12.1zm12.2 20.5c0 3.3-2.7 6-6.1 6-3.3 0-6-2.7-6-6v-9.1h12.1z"/>
+		<path id="Path 4365" class="s5" d="m36.5 417.2h721.5v51.2h-721.5z"/>
+		<text id="Treat to progression or unaccept" style="transform: matrix(1,0,0,1,37.178,446.275)" >
+			<tspan x="0" y="0" class="t6" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Treat to progression or unacceptable toxicity
+</tspan>
+		</text>
+		<text id="DAY" style="transform: matrix(1,0,0,1,35.963,60.129)" >
+			<tspan x="0" y="0" class="t7" dx="0 0 0 0" >DAY
+</tspan>
+		</text>
+		<text id="1" style="transform: matrix(1,0,0,1,44.61,85.254)" >
+			<tspan x="0" y="0" class="t8">1
+</tspan>
+		</text>
+		<text id="NO DOSE" style="transform: matrix(1,0,0,1,576.339,117.44)" >
+			<tspan x="0" y="0" class="t9" dx="0 0 0 0 0 0 0 0" >NO DOSE
+</tspan>
+		</text>
+		<text id="NO DOSE" style="transform: matrix(1,0,0,1,576.339,232.389)" >
+			<tspan x="0" y="0" class="t10" dx="0 0 0 0 0 0 0 0" >NO DOSE
+</tspan>
+		</text>
+		<text id="DAY" style="transform: matrix(1,0,0,1,215.718,60.129)" >
+			<tspan x="0" y="0" class="t7" dx="0 0 0 0" >DAY
+</tspan>
+		</text>
+		<text id="8" style="transform: matrix(1,0,0,1,221.291,85.254)" >
+			<tspan x="0" y="0" class="t8">8
+</tspan>
+		</text>
+		<text id="Ixazomib (NINLARO)" style="transform: matrix(1,0,0,1,34.112,122.724)" >
+			<tspan x="0" y="0" class="t11" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Ixazomib (NINLARO)
+</tspan>
+		</text>
+		<text id="Lenalidomide" style="transform: matrix(1,0,0,1,34.112,235.209)" >
+			<tspan x="0" y="0" class="t12" dx="0 0 0 0 0 0 0 0 0 0 0 0 0" >Lenalidomide
+</tspan>
+		</text>
+		<text id="Dexamethasone*" style="transform: matrix(1,0,0,1,34.112,343.598)" >
+			<tspan x="0" y="0" class="t13" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Dexamethasone*
+</tspan>
+		</text>
+		<text id="DAY" style="transform: matrix(1,0,0,1,396.83,60.129)" >
+			<tspan x="0" y="0" class="t7" dx="0 0 0 0" >DAY
+</tspan>
+		</text>
+		<text id="15" style="transform: matrix(1,0,0,1,396.536,85.254)" >
+			<tspan x="0" y="0" class="t8" dx="0 0 0" >15
+</tspan>
+		</text>
+		<text id="DAY" style="transform: matrix(1,0,0,1,576.234,60.129)" >
+			<tspan x="0" y="0" class="t7" dx="0 0 0 0" >DAY
+</tspan>
+		</text>
+		<text id="22" style="transform: matrix(1,0,0,1,573.073,85.254)" >
+			<tspan x="0" y="0" class="t8" dx="0 0 0" >22
+</tspan>
+		</text>
+		<text id="DAY" style="transform: matrix(1,0,0,1,729.155,60.129)" >
+			<tspan x="0" y="0" class="t7" dx="0 0 0 0" >DAY
+</tspan>
+		</text>
+		<text id="28" style="transform: matrix(1,0,0,1,725.89,85.254)" >
+			<tspan x="0" y="0" class="t8" dx="0 0 0" >28
+</tspan>
+		</text>
+		<path id="Path 4382" class="s14" d="m37.5 417.2h720.5"/>
+		<path id="Path 4383" class="s15" d="m37.5 468.2h720.5"/>
+		<path id="Path 4384" class="s16" d="m36.7 129.4h721.9"/>
+		<path id="Path 4385" class="s17" d="m36.7 24.4h721.9"/>
+		<path id="Path 4386" class="s18" d="m36.7 241.6h721.9"/>
+		<path id="Path 4387" class="s19" d="m36.7 349.3h721.9"/>
+		<path id="Path 4388" class="s20" d="m36.7 136.3v52.1m26.5-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m25.4-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m26.3-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.4-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25.1-52.1v52.1m23.9-52.1v52.1m25.4-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25-52.1v52.1"/>
+		<path id="Path 4391" class="s21" d="m577.4 135.4h28.2v53.8h-28.2z"/>
+		<path id="Path 4392" class="s20" d="m36.7 248.2v52.1m26.5-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m25.4-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m26.3-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.4-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25.1-52.1v52.1m23.9-52.1v52.1m25.4-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25-52.1v52.1"/>
+		<path id="Path 4395" class="s4" d="m577.4 247.3h28.2v53.8h-28.2z"/>
+		<path id="Path 4396" class="s20" d="m36.7 356.6v52.1m26.5-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m25.4-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m26.3-52.1v52.1m26.5-52.1v52.1m25.6-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25-52.1v52.1m25.6-52.1v52.1m26.5-52.1v52.1m25.4-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25.1-52.1v52.1m23.9-52.1v52.1m25.4-52.1v52.1m25-52.1v52.1m27.1-52.1v52.1m25-52.1v52.1"/>
+		<path id="Path 4397" class="s22" d="m641.2 113.5h110.7"/>
+		<path id="Path 4398" class="s23" d="m750.8 110l6.1 3.5-6.1 3.5z"/>
+		<path id="Path 4399" class="s24" d="m641.2 228.5h110.7"/>
+		<path id="Path 4400" class="s4" d="m750.8 225l6.1 3.5-6.1 3.5z"/>
+		<path id="Path 4401" class="s3" d="m371 442.8l-14.8 6.7v-14.8z"/>
+	</g>
+</svg>
